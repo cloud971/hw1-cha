@@ -1,0 +1,6 @@
+[package]
+name = "hw1-cha"
+version = "0.1.0"
+authors = ["chasam <chasam@pdx.edu>"]
+
+[dependencies]
