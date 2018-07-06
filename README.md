@@ -1,7 +1,6 @@
 <h1>Project 1</h1><br/>The following Project calculates the 
 lcm,gcd,sum and product of given numbers. If no numbers
-are given then the output would be 0. If only one number is given
-<br/>then the output is that number
+are given then the output would be 0. If only one number is given then the output is that number
 
 <h2>GCD</h2>
 To find the GCD of numbers run the following:<br/><br/>
