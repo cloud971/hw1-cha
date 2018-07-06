@@ -31,4 +31,9 @@ $0<br/>
 <h2>One Argument</h2>
 Output with one argument only<br/>
 $calc sum 4<br/>
-$4
+$4<br/>
+
+<h1>Test</h1>
+To test the program run the following command:<br/>
+$cargo test<br/>
+All the test should pass
