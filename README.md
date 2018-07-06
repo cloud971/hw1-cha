@@ -35,4 +35,8 @@ $4<br/>
 <h1>Test</h1>
 To test the program run the following command:<br/>
 $cargo test<br/>
-All the test should pass
+All the test should pass<br/>
+
+<h1>Results</h1>
+All of the following test cases passed. Unit test were written for each functionality of the project.<br/>
+The project succesfully calculated lcm,gcd,product and sum of given numbers.
