@@ -19,7 +19,7 @@ $1<br/>
 
 <h2>Prodcut</h2>
 To find the product of numbers run the following:<br/><br/>
-$calc prod 1 2 3 4<br/>
+$calc product 1 2 3 4<br/>
 $24<br/>
 
 <h2>No Arguments</h2>
